@@ -6,8 +6,8 @@ ingredients = [
     ["mayo", "mustard", "tabasco"]
 ]
 
-def sandwich_request(ingredients,
-  ["rye", "turkey", "cheddar", "mayo"]) 
+def sandwich_request(ingredients, order) 
+  # your code here!
 end
 
 # example city_info hash
